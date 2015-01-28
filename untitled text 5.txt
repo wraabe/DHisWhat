@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test
 
 
@@ -5,3 +6,6 @@ Test
 Edit
 Edit
 Edit
+=======
+Test document messed around with.
+>>>>>>> FETCH_HEAD
