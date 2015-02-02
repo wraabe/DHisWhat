@@ -47,3 +47,7 @@ Digital Humanities is about using technology to research and teach and present t
 in an electronic form. It challenges the typical way of thinking when it comes to 
 technologically presenting information. There is more than just Microsoft Word out
 there.
+
+# Andrew’s Comments
+ * Overall I like your post and think it goes through your personal thought process on Digital Humanities and coming to and understanding of it. You cited the articles like you were supposed to and also outlined potential areas of difficulty you have in fully understanding it.
+ * To improve this post, perhaps integrate your quotes a little more smoothly. Rather than say “this is the definition given,” consider introducing the quote in a streamlined fashion by saying something along the lines of “he defines DH as ‘quote.’”
