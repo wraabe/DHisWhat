@@ -12,7 +12,8 @@ I still didn't quite understand what Digital Humanities is.
  
 Upon reading required texts, I finally had a definition for Digital Humanities. In an article by Kirschenbaum, *What Is Digital Humanities and What is it Doing in
 English Departments*, this is the definition that was given:
-> "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010]
+ 
+ > "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010]
 
 ### What Does That Mean?
 
