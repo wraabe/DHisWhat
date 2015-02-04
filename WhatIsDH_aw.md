@@ -1,9 +1,3 @@
----
-title: What is Digital Humanities?
-author: Andrew Wyatt
-date: February 2, 2015
-bibliography: Assmt1.bib
----
 
 The digital humanities are a source of much discussion, controversy and confusion within humanities departments. While the tools and ideas present within the digital humanities are several decades old, they are receiving much more attention in recent years due to their increase in popularity and the rise of open source software and technology. It is difficult to get to the heart of what the digital humanities are and why there is such heated debate over their validity within academia. Many modern commentators offer answers to that question and the main point of contention seems to revolve around the availability and sharing of cultural information that had previously been kept in the few. Digital humanities are perceived as a threat to literary studies because they encourage sharing and free access to information and publishing.
 
@@ -13,4 +7,4 @@ But what about the digital humanities enables the spread of culture? It stems fr
 
 While there are several criticisms of the digital humanities that are valid, such as the debate over the true essence of the discipline, the most invective arguments against them seem reactionary and targeted at the new availability of information. Humanities are no longer confined to libraries or bookstores, but the internet. Digital scholarship and techniques allow even major law firms to produce their own custom texts and share them easily. This places sharing and the flow of information at the heart of the digital humanities and regardless of the power they take away from scholars and academics, it also empowers them to explore the humanities with new ease and efficiency.
 
-#References
+# References
