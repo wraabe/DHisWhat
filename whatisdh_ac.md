@@ -1,21 +1,21 @@
- # What Is DH?
+# What Is DH?
  
- ### Digital Humanities?
- When starting off, I had no idea what Digital humanities entailed. I knew there would
- some working with computers, but didn't realize how much computer work would be needed.
- I am far from a computer literate person, so, this is quite the struggle for me. When
- finding out just how many programs I needed for this class, I was confused as to why.
- I still didn't quite understand what Digital Humanities is. 
+### Digital Humanities?
  
- ### Discovering DH
- Upon reading required texts, I finally had a definition for Digital Humanities.
- In an article by Kirschenbaum, *What Is Digital Humanities and What is it Doing in
- English Departments*, this is the definition that was given:
- > The digital humanities, also known as humanities computing, is a field of study,
-research, teaching, and invention concerned with the intersection of computing and
-the disciplines of the humanities.
+When starting off, I had no idea what Digital humanities entailed. I knew there would
+some working with computers, but didn't realize how much computer work would be needed.
+I am far from a computer literate person, so, this is quite the struggle for me. When
+finding out just how many programs I needed for this class, I was confused as to why.
+I still didn't quite understand what Digital Humanities is. 
+ 
+### Discovering DH
+ 
+Upon reading required texts, I finally had a definition for Digital Humanities. In an article by Kirschenbaum, *What Is Digital Humanities and What is it Doing in
+English Departments*, this is the definition that was given:
+> "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010]
 
 ### What Does That Mean?
+
 For starters, you know that there is the word 'computing' in the definition, meaning 
 there is involvement of computers and electronics. So, if you take the rest of the 
 definition, I believe that would mean that in Digital Humanities you'll be researching 
@@ -30,12 +30,12 @@ understand that it's complicated, and it involves technology and research, but I
 didn't quite grasp it. 
 
 ### Coming to an Understanding
+
 You would think that having a solid definition, and understanding that definition would
 then allow you to understand the topic under consideration, it didn't. It caused me
 more confusion. Until, I read another article by Mark Sample called, *The Digital 
 Humanities is not About Building, It's About Sharing.* In the article Sample states, 
->The heart of the digital humanities is not the production of knowledge; it's the 
-*reproduction* of knowledge
+>"The heart of the digital humanities is not the production of knowledge; it's the *reproduction* of knowledge." [@Sample2011]
 That quote solidified everything to me. Digital Humanities was about changing the way 
 that knowledge is presented. It's changing the way that people think about presenting 
 the knowledge that they've gathered. Three weeks ago I never would have thought I'd be 
@@ -43,11 +43,8 @@ writing in Markdown, making rtf files in pandoc, or trying to figure out how to 
 an ebook. 
 
 ### Coming to an End
+
 Digital Humanities is about using technology to research and teach and present things 
 in an electronic form. It challenges the typical way of thinking when it comes to 
 technologically presenting information. There is more than just Microsoft Word out
 there.
-
-# Andrew’s Comments
- * Overall I like your post and think it goes through your personal thought process on Digital Humanities and coming to and understanding of it. You cited the articles like you were supposed to and also outlined potential areas of difficulty you have in fully understanding it.
- * To improve this post, perhaps integrate your quotes a little more smoothly. Rather than say “this is the definition given,” consider introducing the quote in a streamlined fashion by saying something along the lines of “he defines DH as ‘quote.’”
