@@ -40,7 +40,7 @@ You would think that having a solid definition, and understanding that definitio
 then allow you to understand the topic under consideration, it didn't. It caused me
 more confusion. Until, I read another article by Mark Sample called, *The Digital 
 Humanities is not About Building, It's About Sharing.* In the article Sample states, 
->"The heart of the digital humanities is not the production of knowledge; it's the *reproduction* of knowledge." [@Sample2011]
+>"The heart of the digital humanities is not the production of knowledge; it's the *reproduction* of knowledge." [@sample2011]
 That quote solidified everything to me. Digital Humanities was about changing the way 
 that knowledge is presented. It's changing the way that people think about presenting 
 the knowledge that they've gathered. Three weeks ago I never would have thought I'd be 
