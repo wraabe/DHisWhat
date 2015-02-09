@@ -1,3 +1,57 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={Jordan Lewis, Amber Cantrell, Andrew Wyatt},
+            pdftitle={What is Digital Humanities?},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\title{What is Digital Humanities?}
+\author{Jordan Lewis, Amber Cantrell, Andrew Wyatt}
+\date{February 3, 2015}
+
+\begin{document}
+\maketitle
+
 \section{What Is DH?}\label{what-is-dh}
 
 \subsubsection{Digital Humanities?}\label{digital-humanities}
@@ -15,12 +69,19 @@ Upon reading required texts, I finally had a definition for Digital
 Humanities. In an article by Kirschenbaum, \emph{What Is Digital
 Humanities and What is it Doing in English Departments}, this is the
 definition that was given:
+\textless{}\textless{}\textless{}\textless{}\textless{}\textless{}\textless{}
+HEAD \textgreater{} ``The digital humanities, also known as humanities
+computing, is a field of study, research, teaching, and invention
+concerned with the intersection of computing and the disciplines of the
+humanities.'' (Kirschenbaum 2) =======
 
 \begin{quote}
 ``The digital humanities, also known as humanities computing, is a field
 of study, research, teaching, and invention concerned with the
 intersection of computing and the disciplines of the humanities.''
 (Kirschenbaum)
+\textgreater{}\textgreater{}\textgreater{}\textgreater{}\textgreater{}\textgreater{}
+FETCH\_HEAD
 \end{quote}
 
 \subsubsection{What Does That Mean?}\label{what-does-that-mean}
@@ -50,12 +111,12 @@ another article by Mark Sample called, \emph{The Digital Humanities is
 not About Building, It's About Sharing.} In the article Sample states,
 \textgreater{}``The heart of the digital humanities is not the
 production of knowledge; it's the \emph{reproduction} of knowledge.''
-({\textbf{???}}) That quote solidified everything to me. Digital
-Humanities was about changing the way that knowledge is presented. It's
-changing the way that people think about presenting the knowledge that
-they've gathered. Three weeks ago I never would have thought I'd be
-writing in Markdown, making rtf files in pandoc, or trying to figure out
-how to compile an ebook.
+(Sample) That quote solidified everything to me. Digital Humanities was
+about changing the way that knowledge is presented. It's changing the
+way that people think about presenting the knowledge that they've
+gathered. Three weeks ago I never would have thought I'd be writing in
+Markdown, making rtf files in pandoc, or trying to figure out how to
+compile an ebook.
 
 \subsubsection{Coming to an End}\label{coming-to-an-end}
 
@@ -195,3 +256,5 @@ Ramsay, Stephen. ``On Building.'' \emph{Stephen Ramsay} Jan. 2011. Web.
 
 Sample, Mark. ``The Digital Humanities Is Not About Building, It's About
 Sharing.'' \emph{Sample Reality} May 2011. Web. 26 Oct. 2013.
+
+\end{document}

@@ -14,9 +14,8 @@ Upon reading required texts, I finally had a definition for Digital Humanities. 
 English Departments*, this is the definition that was given:
 <<<<<<< HEAD
 > "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010 pp. 2]
-=======
  
- > "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010]
+> "The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities." [@kirschenbaum2010]
 >>>>>>> FETCH_HEAD
 
 ### What Does That Mean?
