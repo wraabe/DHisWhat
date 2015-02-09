@@ -9,4 +9,5 @@ But what about the digital humanities enables the spread of culture? It stems fr
 
 While there are several criticisms of the digital humanities that are valid, such as the debate over the true essence of the discipline, the most invective arguments against them seem reactionary and targeted at the new availability of information. Humanities are no longer confined to libraries or bookstores, but the internet. Digital scholarship and techniques allow even major law firms to produce their own custom texts and share them easily. This places sharing and the flow of information at the heart of the digital humanities and regardless of the power they take away from scholars and academics, it also empowers them to explore the humanities with new ease and efficiency.
 
+
 # References
