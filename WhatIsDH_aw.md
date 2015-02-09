@@ -1,3 +1,4 @@
+
 ## Defining the Digital Humanities
  
 The digital humanities are a source of much discussion, controversy and confusion within humanities departments. While the tools and ideas present within the digital humanities are several decades old, they are receiving much more attention in recent years due to their increase in popularity and the rise of open source software and technology. It is difficult to get to the heart of what the digital humanities are and why there is such heated debate over their validity within academia. Many modern commentators offer answers to that question and the main point of contention seems to revolve around the availability and sharing of cultural information that had previously been kept in the few. Digital humanities are perceived as a threat to literary studies because they encourage sharing and free access to information and publishing.
